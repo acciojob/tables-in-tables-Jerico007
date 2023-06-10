@@ -1,6 +1,16 @@
 
 /* Your CSS Code here. */
 
+table,tr,th,td{
+	border:2px solid rgb(0,0,0);
+}
+.table4{
+	background-color:black;
+}
+
+.special{
+	color:white;
+}
 th{
 	text-align:center;
 }
