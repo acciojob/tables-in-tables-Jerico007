@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.special{
+	font-type:bold;
+	background-color:black;
+}
+span{
+	color:white;
+	font-type:bold;
+}
+th{
+	text-align:center;
+}
+
+td{
+	text-align:center;
+}
