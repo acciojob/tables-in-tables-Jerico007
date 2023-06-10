@@ -3,11 +3,9 @@
 .special{
 	font-type:bold;
 	background-color: rgb(0,0,0);
-}
-span{
 	color:white;
-	font-type:bold;
 }
+
 th{
 	text-align:center;
 }
