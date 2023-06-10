@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .special{
 	font-type:bold;
-	background-color:black;
+	background-color: rgba(0,0,0);
 }
 span{
 	color:white;
